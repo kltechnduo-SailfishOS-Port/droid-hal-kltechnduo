@@ -8,7 +8,6 @@
 %define vendor_pretty LG
 %define device_pretty Nexus 5x
 %define installable_zip 1
-%define device_target_cpu aarch64
 %define straggler_files \
 /verity_key\
 %{nil}
